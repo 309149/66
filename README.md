@@ -6,5 +6,5 @@
 
 index.html修改主要信息  **|**  time.js修改生日  **|**  index.js修改「想说的话」
 
-demo : https://lincest.github.io/happybirthday/
+demo : 
 > 注意 : 字数过多 ( >3 ) 移动端易失真, 本人研究一番无果后放弃
